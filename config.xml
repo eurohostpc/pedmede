@@ -1,7 +1,0 @@
-<widget xmlns   = "http://www.w3.org/ns/widgets"
-xmlns:gap   = "http://phonegap.com/ns/1.0"
-id          = "com.pemdede"
-version     = "3.0.0" >
-
-    
-<icon src="https://cloud.githubusercontent.com/assets/6482969/8266269/ff3dc220-172d-11e5-8e9e-225a0580b6bd.png" />
