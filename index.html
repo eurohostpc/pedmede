@@ -1,7 +1,15 @@
-
-<div id="content"></div>
-<script>
-$(document).ready(function() {
-    $("#content").load("http://pedmede.gr/site/mobile/index.php");
-});
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;" />
+<meta charset="utf-8">
+<script type="text/javascript" charset="utf-8" src="cordova-2.1.0.js"></script>
+<script type="text/javascript">
+     function onBodyLoad(){     
+        document.addEventListener("deviceready", onDeviceReady, false);
+     }
+     function onDeviceReady(){
+         window.location.href = 'http://pedmede.gr/site/mobile/index.php'
+     }
+}
 </script>
