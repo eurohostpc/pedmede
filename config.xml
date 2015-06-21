@@ -15,7 +15,7 @@
     <author href="https://www.visualbasic.gr" email="support@visualbasic.gr">
         Visual Basic 
     </author>
-    <icon src="logo.jpg" />
+    <icon src="logo.png" />
     <gap:plugin name="org.apache.cordova.dialogs" />
 
 </widget>
