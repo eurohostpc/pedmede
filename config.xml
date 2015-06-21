@@ -1,1 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.pedmede"
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>ΠΕΔΜΕΔΕ</name>
+
+    <description>
+        Πανελλήνια Ένωση Διπλ. Μηχανικών Εργοληπτών Δημοσίων Έργων. 
+    </description>
+
+    <author href="https://www.visualbasic.gr" email="support@visualbasic.gr">
+        Visual Basic 
+    </author>
+
+</widget>
+
 <gap:plugin name="org.apache.cordova.dialogs" />
